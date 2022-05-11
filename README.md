@@ -1,4 +1,4 @@
-# image_captioning
+# Frame Annotation for Images
 ### Daniel Lee, Julie Song, Yichen Yao, Jung Ho Yoon
 ### Semantic Representation NLP - Daniel Bauer (Spring '22)
 
