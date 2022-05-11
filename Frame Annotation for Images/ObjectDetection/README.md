@@ -1,0 +1,1 @@
+Object detector code uses ImageAI Library at  https://imageai.readthedocs.io/en/latest/ to detect objects and their positions. All code is inspired from the docs.

@@ -1,0 +1,2 @@
+CNN+RNN is originally from Keras website. It's been modified to improve its performance. We compare this with the results of CNN+Transformer.
+test_images folder hold the five images we are testing the captions of.

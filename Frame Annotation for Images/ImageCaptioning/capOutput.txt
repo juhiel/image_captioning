@@ -1,0 +1,13 @@
+0 : a yellow school bus is traveling down a road. <end> 
+1 : a woman looking at a bottle of flowers. <end> 
+2 : a person in a blue shirt eats food. <end> 
+3 : a young boy sitting in a chair, near a television. <end> 
+4 : a man holds a cell phone and talking on the camera wearing a tie while in a small room. <end> 
+5 : a woman holds a camera on the tree. <end> 
+6 : a monkey is eating an apple in it's mouth. <end>
+7 : a woman closing a text that a laptop <end> 
+8 : a man is skiing in the mountains. <end>
+9 : a person is in a UNK sided pot and knife. <end>
+10 : a boy is kicking a soccer ball. <end>
+11 : a black, white, and black brown and white animals and a tie on, standing in the grass. <end>
+12 : a man with a vest holding a wine glass. <end>
