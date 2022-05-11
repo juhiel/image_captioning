@@ -1,0 +1,1 @@
+Output labeling takes output of word similarity code and uses Matplotlib to plot object frames onto original image.

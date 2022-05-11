@@ -1,0 +1,2 @@
+The driver function in mapping.ipynb takes in two JSON files--one with the detected objects from the object detection algorithm and the other from the output of Sling. Both should be mapped to the image ID. The method outputs a dictionary mapping appropriate caption words with its frame as well as the bounding box coordinates, which is used to visualize the output. 
+The code was run with the two JSON files in the 'test_resources' folder.
